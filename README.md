@@ -195,12 +195,12 @@ Production-grade **GIS Fleet Tracking & Autonomous Vehicle Sensor Platform** —
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teguh010&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teguh010&theme=tokyonight&v=3)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Teguh010&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teguh010&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Teguh010&theme=tokyonight&v=3" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teguh010&theme=tokyonight&v=3" width="49%" />
 
-[![GitHub Streak]("https://streak-stats.demolab.com?user=Teguh010&theme=tokyonight&hide_border=true&card_width=800")]("https://git.io/streak-stats")
+[![GitHub Streak](https://streak-stats.demolab.com?user=Teguh010&theme=tokyonight&hide_border=true&v=3)](https://git.io/streak-stats)
 
 </div>
 
