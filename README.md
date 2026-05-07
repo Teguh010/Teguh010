@@ -4,7 +4,7 @@
 
 ### Fullstack Developer | Real-Time Systems | GIS & Geospatial
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://teguhportofolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://teguhbadrusalam.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teguh010)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teguh010)
 
@@ -103,7 +103,7 @@ Real-time fleet tracking & autonomous vehicle sensor visualization platform
 
 - 💼 Open for **freelance** and **collaboration** on GIS/real-time projects
 - 📧 Reach me via [LinkedIn](https://linkedin.com/in/teguh010)
-- 🌐 Check my [Portfolio](https://teguhportofolio.vercel.app/)
+- 🌐 Check my [Portfolio](https://teguhbadrusalam.netlify.app/)
 
 ---
 
