@@ -2,7 +2,7 @@
 
 # Hey there! I'm Teguh Badrusalam 👋
 
-### Senior Fullstack Engineer · React · Next.js · TypeScript · Node.js · AWS
+### Senior Fullstack GIS Engineer · Real-Time Systems · Fleet Tracking · React · Next.js · Node.js
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://teguhbadrusalam.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teguh010)
@@ -15,18 +15,20 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Fullstack Engineer** from Indonesia 🇮🇩 with **7+ years** of experience building production-grade platforms for companies in **Norway 🇳🇴, Hong Kong 🇭🇰, Singapore 🇸🇬, and Indonesia**. I specialize in **real-time systems**, **GIS/geospatial applications**, and **full-stack delivery** — from pixel-perfect UIs to scalable cloud infrastructure.
+I'm a **Senior Fullstack GIS Engineer** from Indonesia 🇮🇩 with **7+ years** of experience building production-grade platforms for companies in **Norway 🇳🇴, Hong Kong 🇭🇰, Singapore 🇸🇬, and Indonesia**. My core specialty is **GIS & geospatial systems** — interactive maps, real-time fleet tracking, and spatial data pipelines — delivered full-stack from React/Next.js frontends to NestJS backends and AWS cloud.
 
 ```typescript
 const teguh = {
-  role: "Senior Fullstack Engineer",
+  role: "Senior Fullstack GIS Engineer",
   experience: "7+ years",
   clients: ["Norway", "Hong Kong", "Singapore", "Indonesia"],
-  focus: ["Real-Time Systems", "GIS/Geospatial", "Full-Stack Delivery", "AI/LLM Integration"],
-  currentWork: "Vision Technology Grid AS · Fleet Management Platform (10,000+ assets)",
+  // 🗺️ Core specialization
+  gisExpertise: ["Leaflet.js", "Google Maps", "Here Maps", "OpenStreetMap", "PostGIS", "Real-Time Tracking"],
+  // 🏗️ Full-stack delivery
+  stack: ["React", "Next.js", "TypeScript", "NestJS", "PostgreSQL", "Redis", "AWS", "Docker"],
+  currentWork: "Vision Technology Grid AS · GIS Fleet Platform (10,000+ assets, European logistics)",
   recentlyExploring: ["RAG Pipelines", "NL-to-SQL", "OpenAI", "Groq", "Local LLMs"],
-  askMeAbout: ["NestJS", "Next.js", "React", "MQTT", "WebSocket", "Leaflet", "AWS", "Docker"],
-  languages: ["Indonesian (Native)", "English (Fluent)", "German (Beginner)"],
+  askMeAbout: ["GIS Systems", "Fleet Tracking", "MQTT", "WebSocket", "PostGIS", "Leaflet"],
 };
 ```
 
@@ -62,11 +64,17 @@ const teguh = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### GIS & Real-Time
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+### 🗺️ GIS & Geospatial _(Core Specialization)_
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Here Maps](https://img.shields.io/badge/Here_Maps-00AFAA?style=for-the-badge&logo=here&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚡ Real-Time & Messaging
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ### AI / LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -77,13 +85,14 @@ const teguh = {
 
 ## 💼 Work Experience
 
-### 🏢 Vision Technology Grid AS · Frontend Engineer
+### 🏢 Vision Technology Grid AS · Fullstack GIS Engineer
 **Remote · Norway** | `Mar 2024 – Present`
 
-- Led frontend of a **GIS-based fleet management platform** serving European logistics clients — real-time tracking for **10,000+ assets**
-- Built complex map interfaces with **React, Next.js, Leaflet.js, Google Maps & Here Maps**; optimized large dataset rendering for **60fps** performance
-- Implemented scalable state management with **Redux + TypeScript** with sub-second update latency
-- Collaborated on **NestJS + Docker** architecture for data-intensive features
+- Led **full-stack development** of a GIS-based fleet management platform serving European logistics clients — real-time tracking for **10,000+ assets**
+- Built complex geospatial map interfaces with **React, Next.js, Leaflet.js, Google Maps & Here Maps**; optimized large dataset rendering for **60fps** performance
+- Designed and implemented **backend APIs with NestJS** + **PostgreSQL/PostGIS** for spatial queries, vehicle telemetry storage, and stop detection
+- Built **MQTT + WebSocket** event pipeline for sub-second vehicle position updates across the entire fleet
+- Managed **Docker + AWS** deployment and infrastructure for high-availability GIS services
 
 ---
 
@@ -106,25 +115,35 @@ const teguh = {
 
 ---
 
-### 🏢 PT GPSKU Karya Indonesia · Frontend Developer
+### 🏢 PT GPSKU Karya Indonesia · Fullstack GIS Developer
 **Onsite · Indonesia** | `Aug 2018 – Feb 2019`
 
-- Built **GPS tracking & fleet monitoring dashboards** using **Vue.js, Quasar, Leaflet.js, OpenStreetMap**
-- Gained foundational expertise in real-time asset tracking visualization
+- Built **full-stack GPS tracking & fleet monitoring systems** — geospatial map dashboards using **Vue.js, Quasar, Leaflet.js, OpenStreetMap** connected to backend APIs for real-time asset data
+- Developed REST APIs to serve live vehicle positions and historical route data to the map interface
+- This is where my **GIS engineering roots began** — the foundation for all subsequent fleet tracking and geospatial work
 
 ---
 
 ## 🔥 Featured Projects
 
-### [VisionTrack](https://github.com/Teguh010/fleet-management) 🚗
-Real-time fleet tracking & autonomous vehicle sensor visualization platform
+### [VisionTrack](https://github.com/Teguh010/visiontrack) 🗺️🚗
+Production-grade **GIS Fleet Tracking & Autonomous Vehicle Sensor Platform** — open source
 
-`React` `NestJS` `MQTT` `WebSocket` `Leaflet` `LiDAR` `PostgreSQL` `Redis`
+`Next.js` `NestJS` `TypeScript` `Leaflet.js` `PostgreSQL` `PostGIS` `Redis` `MQTT` `WebSocket` `Docker`
 
-- ⚡ Sub-second latency GPS tracking for 10,000+ assets
-- 📹 6-camera AV sensor grid view with live feeds
-- 🎯 LiDAR point cloud visualization
-- 📊 Analytics dashboard with stop detection & reporting
+**GIS & Tracking Features:**
+- 🗺️ Interactive **Leaflet.js** map with real-time smooth marker animations
+- ⚡ **Sub-second latency** GPS position updates via MQTT → WebSocket pipeline
+- 🛑 **Automatic stop detection** — vehicle stopped when speed < 5 km/h for 2+ min
+- 📍 **Route history playback** — replay vehicle trajectories with timeline controls
+- 📊 Analytics: speed charts, stop events, fleet statistics dashboard
+
+**AV Sensor Visualization:**
+- 📹 6-camera sensor grid view (nuScenes dataset)
+- 🎯 LiDAR point cloud + 3D bounding box annotations
+- 🔄 Frame-by-frame AV sensor scene replay
+
+**Architecture:** MQTT Broker → NestJS (Prisma + Redis) → WebSocket → Next.js (Leaflet map)
 
 ---
 
@@ -146,11 +165,11 @@ Real-time fleet tracking & autonomous vehicle sensor visualization platform
 
 | Area | Description |
 | ---- | ----------- |
-| 🖥️ **Fullstack Dev** | End-to-end delivery: React/Next.js frontend + NestJS/Express backend + AWS cloud |
-| 🗺️ **GIS & Mapping** | Interactive maps, PostGIS, Leaflet, Google Maps, Here Maps, real-time tracking |
-| ⚡ **Real-Time Systems** | MQTT, WebSocket, live data streaming, event-driven architecture |
-| 🚗 **Fleet & Telemetry** | GPS tracking, sensor fusion, stop detection, vehicle analytics |
-| 🤖 **AI / LLM** | RAG pipelines, NL-to-SQL, OpenAI, Groq, local LLM integration |
+| 🗺️ **GIS & Geospatial** ⭐ | Interactive maps, PostGIS spatial queries, Leaflet.js, Google Maps, Here Maps, OpenStreetMap |
+| 🚗 **Fleet & Real-Time Tracking** | GPS telemetry, MQTT pipelines, stop detection, route history, 10,000+ asset scale |
+| 🖥️ **Fullstack Delivery** | React/Next.js frontend + NestJS/Express.js backend + PostgreSQL + AWS cloud |
+| ⚡ **Real-Time Systems** | MQTT broker, WebSocket, sub-second data streaming, event-driven architecture |
+| 🤖 **AI / LLM Integration** | RAG pipelines, NL-to-SQL, OpenAI, Groq, local LLM integration |
 | ☁️ **Cloud & DevOps** | AWS (EC2, RDS Aurora, S3, IAM), Docker, GitHub Actions, CI/CD |
 
 ---
@@ -166,7 +185,7 @@ Real-time fleet tracking & autonomous vehicle sensor visualization platform
 
 <div align="center">
 
-**💡 7+ years building real-time systems · GIS platforms · Full-stack products across 4 countries**
+**🗺️ Fullstack GIS Engineer · 7+ years · Fleet Tracking · Real-Time Systems · Norway · HK · Singapore · Indonesia**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Teguh010&color=blueviolet&style=flat-square)
 
