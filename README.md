@@ -77,11 +77,11 @@ Real-time fleet tracking & autonomous vehicle sensor visualization platform
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teguh010&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teguh010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teguh010&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teguh010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=1800&exclude_repo=claw-code,fleetbase)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Teguh010&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Teguh010&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
