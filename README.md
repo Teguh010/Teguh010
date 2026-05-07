@@ -23,12 +23,42 @@ const teguh = {
   experience: "7+ years",
   clients: ["Norway", "Hong Kong", "Singapore", "Indonesia"],
   // 🗺️ Core specialization
-  gisExpertise: ["Leaflet.js", "Google Maps", "Here Maps", "OpenStreetMap", "PostGIS", "Real-Time Tracking"],
+  gisExpertise: [
+    "Leaflet.js",
+    "Google Maps",
+    "Here Maps",
+    "OpenStreetMap",
+    "PostGIS",
+    "Real-Time Tracking",
+  ],
   // 🏗️ Full-stack delivery
-  stack: ["React", "Next.js", "TypeScript", "NestJS", "PostgreSQL", "Redis", "AWS", "Docker"],
-  currentWork: "Vision Technology Grid AS · GIS Fleet Platform (10,000+ assets, European logistics)",
-  recentlyExploring: ["RAG Pipelines", "NL-to-SQL", "OpenAI", "Groq", "Local LLMs"],
-  askMeAbout: ["GIS Systems", "Fleet Tracking", "MQTT", "WebSocket", "PostGIS", "Leaflet"],
+  stack: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "NestJS",
+    "PostgreSQL",
+    "Redis",
+    "AWS",
+    "Docker",
+  ],
+  currentWork:
+    "Vision Technology Grid AS · GIS Fleet Platform (10,000+ assets, European logistics)",
+  recentlyExploring: [
+    "RAG Pipelines",
+    "NL-to-SQL",
+    "OpenAI",
+    "Groq",
+    "Local LLMs",
+  ],
+  askMeAbout: [
+    "GIS Systems",
+    "Fleet Tracking",
+    "MQTT",
+    "WebSocket",
+    "PostGIS",
+    "Leaflet",
+  ],
 };
 ```
 
@@ -37,6 +67,7 @@ const teguh = {
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,6 +78,7 @@ const teguh = {
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -54,17 +86,20 @@ const teguh = {
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🗺️ GIS & Geospatial _(Core Specialization)_
+
 ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Here Maps](https://img.shields.io/badge/Here_Maps-00AFAA?style=for-the-badge&logo=here&logoColor=white)
@@ -72,11 +107,13 @@ const teguh = {
 ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚡ Real-Time & Messaging
+
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ### AI / LLM
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F54E42?style=for-the-badge&logo=groq&logoColor=white)
@@ -86,6 +123,7 @@ const teguh = {
 ## 💼 Work Experience
 
 ### 🏢 Vision Technology Grid AS · Fullstack GIS Engineer
+
 **Remote · Norway** | `Mar 2024 – Present`
 
 - Led **full-stack development** of a GIS-based fleet management platform serving European logistics clients — real-time tracking for **10,000+ assets**
@@ -97,6 +135,7 @@ const teguh = {
 ---
 
 ### 🏢 GoBuddy Asia · Frontend / Fullstack Engineer
+
 **Remote · Hong Kong** | `Aug 2021 – Mar 2024`
 
 - Delivered **5+ end-to-end products** from MVP to enterprise scale for international clients
@@ -107,6 +146,7 @@ const teguh = {
 ---
 
 ### 🏢 SmartJen · Frontend Engineer
+
 **Remote · Singapore** | `Feb 2019 – Jul 2021`
 
 - Developed core features for a **B2C EdTech platform** with thousands of active learners using **Vue.js + ES6+**
@@ -116,6 +156,7 @@ const teguh = {
 ---
 
 ### 🏢 PT GPSKU Karya Indonesia · Fullstack GIS Developer
+
 **Onsite · Indonesia** | `Aug 2018 – Feb 2019`
 
 - Built **full-stack GPS tracking & fleet monitoring systems** — geospatial map dashboards using **Vue.js, Quasar, Leaflet.js, OpenStreetMap** connected to backend APIs for real-time asset data
@@ -127,11 +168,13 @@ const teguh = {
 ## 🔥 Featured Projects
 
 ### [VisionTrack](https://github.com/Teguh010/visiontrack) 🗺️🚗
+
 Production-grade **GIS Fleet Tracking & Autonomous Vehicle Sensor Platform** — open source
 
 `Next.js` `NestJS` `TypeScript` `Leaflet.js` `PostgreSQL` `PostGIS` `Redis` `MQTT` `WebSocket` `Docker`
 
 **GIS & Tracking Features:**
+
 - 🗺️ Interactive **Leaflet.js** map with real-time smooth marker animations
 - ⚡ **Sub-second latency** GPS position updates via MQTT → WebSocket pipeline
 - 🛑 **Automatic stop detection** — vehicle stopped when speed < 5 km/h for 2+ min
@@ -139,6 +182,7 @@ Production-grade **GIS Fleet Tracking & Autonomous Vehicle Sensor Platform** —
 - 📊 Analytics: speed charts, stop events, fleet statistics dashboard
 
 **AV Sensor Visualization:**
+
 - 📹 6-camera sensor grid view (nuScenes dataset)
 - 🎯 LiDAR point cloud + 3D bounding box annotations
 - 🔄 Frame-by-frame AV sensor scene replay
@@ -156,7 +200,7 @@ Production-grade **GIS Fleet Tracking & Autonomous Vehicle Sensor Platform** —
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Teguh010&theme=tokyonight" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teguh010&theme=tokyonight" width="49%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Teguh010&theme=tokyonight&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak]("https://streak-stats.demolab.com?user=Teguh010&theme=tokyonight&hide_border=true&card_width=800")]("https://git.io/streak-stats")
 
 </div>
 
@@ -164,14 +208,14 @@ Production-grade **GIS Fleet Tracking & Autonomous Vehicle Sensor Platform** —
 
 ## 🎯 What I Do
 
-| Area | Description |
-| ---- | ----------- |
-| 🗺️ **GIS & Geospatial** ⭐ | Interactive maps, PostGIS spatial queries, Leaflet.js, Google Maps, Here Maps, OpenStreetMap |
-| 🚗 **Fleet & Real-Time Tracking** | GPS telemetry, MQTT pipelines, stop detection, route history, 10,000+ asset scale |
-| 🖥️ **Fullstack Delivery** | React/Next.js frontend + NestJS/Express.js backend + PostgreSQL + AWS cloud |
-| ⚡ **Real-Time Systems** | MQTT broker, WebSocket, sub-second data streaming, event-driven architecture |
-| 🤖 **AI / LLM Integration** | RAG pipelines, NL-to-SQL, OpenAI, Groq, local LLM integration |
-| ☁️ **Cloud & DevOps** | AWS (EC2, RDS Aurora, S3, IAM), Docker, GitHub Actions, CI/CD |
+| Area                              | Description                                                                                  |
+| --------------------------------- | -------------------------------------------------------------------------------------------- |
+| 🗺️ **GIS & Geospatial** ⭐        | Interactive maps, PostGIS spatial queries, Leaflet.js, Google Maps, Here Maps, OpenStreetMap |
+| 🚗 **Fleet & Real-Time Tracking** | GPS telemetry, MQTT pipelines, stop detection, route history, 10,000+ asset scale            |
+| 🖥️ **Fullstack Delivery**         | React/Next.js frontend + NestJS/Express.js backend + PostgreSQL + AWS cloud                  |
+| ⚡ **Real-Time Systems**          | MQTT broker, WebSocket, sub-second data streaming, event-driven architecture                 |
+| 🤖 **AI / LLM Integration**       | RAG pipelines, NL-to-SQL, OpenAI, Groq, local LLM integration                                |
+| ☁️ **Cloud & DevOps**             | AWS (EC2, RDS Aurora, S3, IAM), Docker, GitHub Actions, CI/CD                                |
 
 ---
 
